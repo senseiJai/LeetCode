@@ -5,8 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/senseiJai/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/senseiJai/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
