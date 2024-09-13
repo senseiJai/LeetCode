@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/senseiJai/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/senseiJai/LeetCode/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/senseiJai/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/senseiJai/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
