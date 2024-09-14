@@ -7,11 +7,10 @@ public:
         int rowIndex = 0;
         int colIndex = col-1;
         while(rowIndex<row && colIndex>=0){
-            int element = matrix[rowIndex][colIndex];
-            if(element == target){
+            if(matrix[rowIndex][colIndex] == target){
                 return 1;
             }
-            if(element < target){
+            if(matrix[rowIndex][colIndex] < target){
                 rowIndex++;
             }
             else{
