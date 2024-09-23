@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/senseiJai/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/senseiJai/LeetCode/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/senseiJai/LeetCode/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/senseiJai/LeetCode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/senseiJai/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
