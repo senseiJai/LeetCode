@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/senseiJai/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/senseiJai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/senseiJai/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/senseiJai/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/senseiJai/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/senseiJai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/senseiJai/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/senseiJai/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/senseiJai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/senseiJai/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
