@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/senseiJai/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/senseiJai/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/senseiJai/LeetCode/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/senseiJai/LeetCode/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
