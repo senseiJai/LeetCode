@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/senseiJai/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/senseiJai/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/senseiJai/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/senseiJai/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/senseiJai/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/senseiJai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/senseiJai/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/senseiJai/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/senseiJai/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/senseiJai/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/senseiJai/LeetCode/tree/master/0342-power-of-four) |
 | [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
