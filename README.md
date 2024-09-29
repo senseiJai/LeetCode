@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/senseiJai/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/senseiJai/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/senseiJai/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/senseiJai/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/senseiJai/LeetCode/tree/master/0231-power-of-two) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/senseiJai/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/senseiJai/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/senseiJai/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/senseiJai/LeetCode/tree/master/0342-power-of-four) |
