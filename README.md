@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/senseiJai/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/senseiJai/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/senseiJai/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/senseiJai/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/senseiJai/LeetCode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/senseiJai/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/senseiJai/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/senseiJai/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/senseiJai/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/senseiJai/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/senseiJai/LeetCode/tree/master/0326-power-of-three) |
