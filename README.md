@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/senseiJai/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/senseiJai/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/senseiJai/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/senseiJai/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/senseiJai/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/senseiJai/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/senseiJai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
 | [1635-number-of-good-pairs](https://github.com/senseiJai/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/senseiJai/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/senseiJai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Prefix Sum
 |  |
