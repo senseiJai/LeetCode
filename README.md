@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/senseiJai/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/senseiJai/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/senseiJai/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/senseiJai/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Hash Table
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/senseiJai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/senseiJai/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
