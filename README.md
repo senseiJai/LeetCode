@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/senseiJai/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/senseiJai/LeetCode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/senseiJai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/senseiJai/LeetCode/tree/master/0567-permutation-in-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/senseiJai/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/senseiJai/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/senseiJai/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/senseiJai/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/senseiJai/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/senseiJai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/senseiJai/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -111,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/senseiJai/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/senseiJai/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/senseiJai/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Prefix Sum
 |  |
