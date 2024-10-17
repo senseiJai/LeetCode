@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/senseiJai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/senseiJai/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/senseiJai/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/senseiJai/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/senseiJai/LeetCode/tree/master/0344-reverse-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/senseiJai/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/senseiJai/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/senseiJai/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/senseiJai/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/senseiJai/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/senseiJai/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/senseiJai/LeetCode/tree/master/0073-set-matrix-zeroes) |
